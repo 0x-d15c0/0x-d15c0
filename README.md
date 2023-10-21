@@ -1,4 +1,4 @@
-<h1 align="left">こんにちは、タルンです 🤙</h1>
+<h1 align="left">>> こんにちは、タルンです 🤙</h1>
 
 ###
 
@@ -6,15 +6,16 @@
 
 ###
 
-<h1 align="left">whoami</h1>
+<h1 align="left">>> whoami</h1>
 
 ###
 
-<h4 align="left">📚 I'm currently learning Machine Learning  <br>🧮 I do cryptography and play ctfs<br>🎯 Goals : My current goal is to git good at machine learning and build fun projects <br>(also to be able to do a pistol squat :v)<br>⛩️ My dream is to become a digital nomad and to be able to travel around the world <br>🎲 Hobbies : i like gaming + Calisthenics + animanga</h4>
+<h4 align="left">📚 I'm currently learning Machine Learning and Neural Networks <br>🧮 I do cryptography and play ctfs<br>🎯 Goals : My current goal is to git good at machine learning and build fun projects (also to be able to do a pistol squat :v)<br>⛩️ My dream is to become a digital nomad and to be able to travel around the world <br>🎲 Hobbies : 🎮 + 🏋️‍♀️ + 📖   <br>
+♾️ My Cryptohack username for ref : nottarun</h4>
 
 ###
 
-<h2 align="left">Langauges i know :</h2>
+<h2 align="left"> >> Langauges i know :</h2>
 
 ###
 
