@@ -1,4 +1,4 @@
-<h1 align="left">Hey  there guys I'm Tarun 🤙</h1>
+<h1 align="left">こんにちは、タルンです 🤙</h1>
 
 ###
 
