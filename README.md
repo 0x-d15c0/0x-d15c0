@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧮 I do cryptography and play ctfs<br>📚 I'm currently learning web dev and ai<br>🎯 Goals : create fullstack and ml projects that i enjoy<br>♾️ Hobbies : i go gym and i pley sekiro</p>
+<p align="left">📚 Currently working on harware and networking <br>🎯 Goals : create fullstack and ml projects that i enjoy<br>♾️ Hobbies : i go gym and i pley sekiro</p>
 
 ###
 
