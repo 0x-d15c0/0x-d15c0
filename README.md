@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently working on harware and networking <br>🎯 Goals : create fullstack and ml projects that i enjoy<br>♾️ Hobbies : i go gym and i pley sekiro</p>
+<p align="left">📚 Currently working on iot and ml <br>
 
 ###
 
