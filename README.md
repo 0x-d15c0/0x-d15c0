@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently working on iot and ml <br>
+<p align="left">📚 Working towards AIOT  <br>
 
 ###
 
