@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Working towards AIOT  <br>
+<p align="left">📚 Working on AI and IOT  <br>
 
 ###
 
