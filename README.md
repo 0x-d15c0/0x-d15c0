@@ -1,5 +1,6 @@
 # 🤫🧏‍♀️ About Me:
-💡 I’m currently working on AI and IOT<br>🤝 I’m looking to collaborate on opensource AI projects<br>🤓  I know cryptography <br>📜 I’m currently learning RAG and NLP<br>
+💡 I’m currently working on AI and IOT<br>🤝 I’m looking to collaborate on opensource AI projects<br>🤓  I know cryptography <br>📜 I’m currently learning RAG and NLP<br> 🏯 Nihongo o benkyo shite imasu <br>
+
 
 
 ## 🌐 Socials:
